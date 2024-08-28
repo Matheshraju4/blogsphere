@@ -1,0 +1,9 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <!-- Circle logo -->
+  <circle cx="30" cy="30" r="20" fill="#4A90E2"/>
+  <!-- Initials inside the circle -->
+  <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">S</text>
+
+  <!-- Shadcn text -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="24" fill="#000000">Shadcn</text>
+</svg>
